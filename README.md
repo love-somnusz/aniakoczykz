@@ -1,0 +1,2 @@
+# aniakoczykz
+projekt z programowania
